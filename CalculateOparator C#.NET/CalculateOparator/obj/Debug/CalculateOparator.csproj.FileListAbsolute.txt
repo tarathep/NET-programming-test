@@ -1,0 +1,10 @@
+C:\Users\bokee\source\repos\CalculateOparator\CalculateOparator\bin\Debug\CalculateOparator.exe.config
+C:\Users\bokee\source\repos\CalculateOparator\CalculateOparator\bin\Debug\CalculateOparator.exe
+C:\Users\bokee\source\repos\CalculateOparator\CalculateOparator\bin\Debug\CalculateOparator.pdb
+C:\Users\bokee\source\repos\CalculateOparator\CalculateOparator\obj\Debug\CalculateOparator.csprojAssemblyReference.cache
+C:\Users\bokee\source\repos\CalculateOparator\CalculateOparator\obj\Debug\CalculateOparator.csproj.CoreCompileInputs.cache
+C:\Users\bokee\source\repos\CalculateOparator\CalculateOparator\obj\Debug\CalculateOparator.exe
+C:\Users\bokee\source\repos\CalculateOparator\CalculateOparator\obj\Debug\CalculateOparator.pdb
+C:\Users\bokee\source\repos\CalculateOparator\CalculateOparator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bokee\source\repos\CalculateOparator\CalculateOparator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bokee\source\repos\CalculateOparator\CalculateOparator\obj\Debug\CalculateOparator.csproj.CopyComplete
